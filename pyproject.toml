@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "mfb-dxf"
+version = "0.1.0"
+description = ""
+authors = ["sf-d <sf@contextmachine.ru>", "sth-v <aa@contextmachine.ru>"]
+readme = "README.md"
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.12"
+mmcore = {git = "https://github.com/contextmachine/mmcore.git"}
+python-multipart="*"
+fastapi={extras=["all"], version="*"}
+httpx="*"
+httplib2="*"
+google-api-python-client="*"
+google-auth="*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
