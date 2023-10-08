@@ -1,0 +1,130 @@
+{
+  "A0":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":251 ,
+    "fill":null,
+    "tag": "A"
+  },
+  "B0":
+  {
+    "lines": 251 ,
+    "hatches": 30,
+    "text":251 ,
+    "fill":"inner",
+    "tag": "B"
+  },
+  "C0":
+  {
+    "lines": 251 ,
+    "hatches": 51,
+    "text":251 ,
+    "fill":"outer",
+    "tag": "C"
+  },
+  "D0":
+  {
+    "lines": 251 ,
+    "hatches": 120,
+    "text":251 ,
+    "fill":"inner",
+    "tag": "D"
+  },
+  "E0":
+  {
+    "lines": 251 ,
+    "hatches": 141,
+    "text":251 ,
+    "fill":"outer",
+    "tag": "E"
+  },
+  "G0":
+  {
+    "lines": 251 ,
+    "hatches": 181,
+    "text":251 ,
+    "fill":"full",
+    "tag": "G"
+  },
+  "E1":
+  {
+    "lines": 251 ,
+    "hatches": 141,
+    "text":251 ,
+    "fill":"outer",
+    "tag": "E1"
+  },
+  "D1":
+  {
+    "lines": 251 ,
+    "hatches": 120,
+    "text":251 ,
+    "fill":"inner",
+    "tag": "D1"
+  },
+  "A11":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":30 ,
+    "fill":null,
+    "tag": "A11"
+  },
+  "A3":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":120 ,
+    "fill":null,
+    "tag": "A3"
+  },
+  "A7":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":50 ,
+    "fill":null,
+    "tag": "A7"
+  },
+  "A10":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":160 ,
+    "fill":null,
+    "tag": "A10"
+  },
+  "A5":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":20 ,
+    "fill":null,
+    "tag": "A5"
+  },
+  "A6":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":6 ,
+    "fill":null,
+    "tag": "A6"
+  },
+  "A4":
+  {
+    "lines": 251 ,
+    "hatches": null,
+    "text":130 ,
+    "fill":null,
+    "tag": "A4"
+  },
+  "B3":
+  {
+    "lines": 251 ,
+    "hatches": 30,
+    "text":251 ,
+    "fill":"inner",
+    "tag": "B3"
+  }
+}
